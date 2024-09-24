@@ -1,0 +1,95 @@
+<html lang="pt-br"></html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="curriculo.css">
+<title>FACE SALON</title>
+
+</head>
+<body>
+    <div class="header">
+        <div class="logo">FACE SALON</div>
+        <div class="tagline">Sua beleza tem marca Salao Senac</div>
+    </div>
+    <div class="models">
+        <img class="model" src="model1.jpg" alt="Modelo 1">
+        <img class="model" src="model2.jpg" alt="Modelo 2">
+        <img class="model" src="model3.jpg" alt="Modelo 3">
+        <img class="model" src="model4.jpg" alt="Modelo 4">
+    </div>
+    <div class="footer">
+        Fundado em 2015, sempre cosmopolita e antenado às tendências mundiais da beleza.
+    </div>
+    <div class="buttons">
+        <a href="https://wa.me/558130193040">Agende via WhatsApp</a>
+        <a href="tel:+558130193040">Ligue agora – (81) 3019-3040</a>
+    </div>
+
+    <div class="services">
+        <div class="service">
+            <img src="cabelo.jpg" alt="Cabelo">
+            <h3>Cabelo</h3>
+            <a href="#">Agende aqui</a>
+        </div>
+        <div class="service">
+            <img src="make.jpg" alt="Make">
+            <h3>Make</h3>
+            <a href="#">Agende aqui</a>
+        </div>
+        <div class="service">
+            <img src="unhas.jpg" alt="Unhas">
+            <h3>Unhas</h3>
+            <a href="#">Agende aqui</a>
+        </div>
+    </div>
+
+    <div class="more-services">
+        <button>Mais Serviços</button>
+    </div>
+
+    <div class="other-services">
+        <div class="service">
+            <img src="alongamento.jpg" alt="Alongamento de Fios">
+            <h3>Alongamento de Fios</h3>
+            <a href="#">Baixe nosso e-book</a>
+        </div>
+        <div class="service">
+            <img src="procedimentos.jpg" alt="Menu de Procedimentos">
+            <h3>Menu de Procedimentos</h3>
+            <a href="#">Saiba mais</a>
+        </div>
+        <div class="service">
+            <img src="mechas.jpg" alt="Faça suas Mechas">
+            <h3>Faça suas Mechas</h3>
+            <a href="#">Faça um orçamento</a>
+        </div>
+        <div class="service">
+            <img src="trends.jpg" alt="Trends do Momento">
+            <h3>As trends do momento</h3>
+            <a href="#">Clique e confira</a>
+        </div>
+        <div class="service">
+            <img src="teste-de-mechas.jpg" alt="Teste de Mechas">
+            <h3>Teste de Mechas</h3>
+            <a href="#">Baixe nosso e-book</a>
+        </div>
+    </div>
+
+
+
+    <div class="video-container">
+        <!-- Thumbnail ou imagem do vídeo -->
+        <img src="thumbnail-video.jpg" alt="Bem-vindo ao TROIS Beauté">
+        <!-- Texto sobre o vídeo -->
+        <div class="video-overlay">
+            <div class="video-text">BEM-VINDO AO TROIS BEAUTÉ</div>
+            <!-- Botão para iniciar o vídeo -->
+            <a href="https://www.youtube.com/watch?v=SeuVideoID" target="_blank">
+                <button class="video-button">
+                    ▶
+                </button>
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>
