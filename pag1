@@ -142,6 +142,7 @@
 
      <div class="unidade">
         <img src="https://www.pe.senac.br/wp-content/uploads/2023/01/uip-13.jpg" alt="senac">
+        <iframe  class="iframe"   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1219.0365478904264!2d-34.886056443314516!3d-8.053162044072213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab18eb40c24969%3A0xf4f6c91f34b3ada9!2sSenac%20Recife%20(Imagem%20Pessoal)!5e0!3m2!1sen!2sbr!4v1727665202609!5m2!1sen!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <h3>Salão Senac</h3>
         <p>Fundado em 2015, sempre cosmopolita e antenado às tendências mundiais da beleza.</p>
     </div>
@@ -150,6 +151,7 @@
             <a href="#">COMO CHEGAR</a>
         </div>
     </div>
+
 
 
     <div class="header">
