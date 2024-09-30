@@ -241,9 +241,7 @@ body {
         overflow-x: auto;
         gap: 10px;
         padding: 20px;
-        scroll-behavior: smooth;
     }
-
   
     .cartao {
         flex: 0 0 300px; 
@@ -307,8 +305,12 @@ body {
         width: 100%;
         height: auto;
         border-bottom: 2px solid #fff;
+        display: inline;
         
     
+    }
+    .unidade iframe{
+        display: flex;
     }
 
     .unidade h3 {
