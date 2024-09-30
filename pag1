@@ -1,44 +1,44 @@
 <html lang="pt-br"></html>
 <head>
 <meta charset="UTF-8">
-<link rel="stylesheet" href="estilo.css">
+<link rel="stylesheet" href="estilos.css">
 <title>FACE SALON</title>
 
 </head>
 <body>
     <div class="header">
-        <div class="logo">FACE SALON</div>
-        <div class="tagline">Sua beleza tem marca Salao Senac</div>
+        <div class="logo">FACE SALON </div>
+        <div class="tagline">Sua beleza tem a marca Salão Senac</div>
+        <br>
+        <img class="senac" src="https://www.pe.senac.br/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-05-at-09.46.39.jpeg" alt="f">
     </div>
-    <div class="models">
-        <img class="model" src="model1.jpg" alt="Modelo 1">
-        <img class="model" src="model2.jpg" alt="Modelo 2">
-        <img class="model" src="model3.jpg" alt="Modelo 3">
-        <img class="model" src="model4.jpg" alt="Modelo 4">
-    </div>
+    <br>
+    <br>
+
     <div class="footer">
-        Fundado em 2015, sempre cosmopolita e antenado às tendências mundiais da beleza.
+        No Recife, o Senac dispõe de uma unidade especializada em serviços na área de beleza, estética e bem-estar para atender ao púbico em geral.
     </div>
+    <br>
     <div class="buttons">
-        <a href="https://wa.me/558130193040">Agende via WhatsApp</a>
-        <a href="tel:+558130193040">Ligue agora – (81) 3019-3040</a>
+        <a  style="color:gray;" href="https://wa.me/558130193040">Agende via WhatsApp</a>
+        <a style="color: gray;" href="tel:+558130193040">Ligue agora – (81) 3019-3040</a>
     </div>
 
     <div class="services">
         <div class="service">
-            <img src="cabelo.jpg" alt="Cabelo">
+            <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/FA04481.jpg" alt="Cabelo">
             <h3>Cabelo</h3>
-            <a href="#">Agende aqui</a>
+            <a  style="color:gray;" href="#">AGENDE AQUI</a>
         </div>
         <div class="service">
-            <img src="make.jpg" alt="Make">
+            <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/FA3E0E1.jpg" alt="Make">
             <h3>Make</h3>
-            <a href="#">Agende aqui</a>
+            <a  style="color:gray;"  href="#">AGENDE AQUI</a>
         </div>
         <div class="service">
-            <img src="unhas.jpg" alt="Unhas">
+            <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/FACC8B1.jpg" alt="Unhas">
             <h3>Unhas</h3>
-            <a href="#">Agende aqui</a>
+            <a style="color:gray;"   href="#">AGENDE AQUI</a>
         </div>
     </div>
 
@@ -48,160 +48,156 @@
 
     <div class="other-services">
         <div class="service">
-            <img src="alongamento.jpg" alt="Alongamento de Fios">
-            <h3>Alongamento de Fios</h3>
-            <a href="#">Baixe nosso e-book</a>
+            <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/FA64AC1.jpg" alt="Alongamento de Fios">
+            <h3>Outros serviços capilares</h3>
+            <a style="color:gray;"  href="#">Baixe nosso e-book</a>
         </div>
         <div class="service">
-            <img src="procedimentos.jpg" alt="Menu de Procedimentos">
+            <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/FAF7021.jpg" alt="Menu de Procedimentos">
             <h3>Menu de Procedimentos</h3>
-            <a href="#">Saiba mais</a>
+            <a style="color:gray;"   href="#">Saiba mais</a>
         </div>
         <div class="service">
-            <img src="mechas.jpg" alt="Faça suas Mechas">
+            <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/Senac-13-10-23-Guilherme-Lost-01.jpg" alt="Faça suas Mechas">
             <h3>Faça suas Mechas</h3>
-            <a href="#">Faça um orçamento</a>
+            <a style="color:gray;"   href="#">Faça um orçamento</a>
         </div>
         <div class="service">
-            <img src="trends.jpg" alt="Trends do Momento">
+            <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/FACF621.jpg" alt="Trends do Momento">
             <h3>As trends do momento</h3>
-            <a href="#">Clique e confira</a>
+            <a style="color:gray;"   href="#">Clique e confira</a>
         </div>
         <div class="service">
-            <img src="teste-de-mechas.jpg" alt="Teste de Mechas">
-            <h3>Teste de Mechas</h3>
-            <a href="#">Baixe nosso e-book</a>
+            <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/FA789C1.jpg" alt="Teste de Mechas">
+            <h3>Serviços de Estética</h3>
+            <a style="color:gray;"   href="#">Baixe nosso e-book</a>
         </div>
     </div>
 
-
-
+    <br>
+    <br>
     <div class="video-container">
         <!-- Thumbnail ou imagem do vídeo -->
-        <img src="thumbnail-video.jpg" alt="Bem-vindo ao TROIS Beauté">
+        <div class="video-text">BEM-VINDO AO SALÃO SENAC</div>
+        <br>
+        <br>
+        <img src="https://www.pe.senac.br/wp-content/uploads/2018/05/DSC_5379-1.jpg" alt="F">
         <!-- Texto sobre o vídeo -->
         <div class="video-overlay">
-            <div class="video-text">BEM-VINDO AO TROIS BEAUTÉ</div>
             <!-- Botão para iniciar o vídeo -->
-            <a href="https://www.youtube.com/watch?v=SeuVideoID" target="_blank">
+            <a href="https://www.facebook.com/watch/?v=746869515900602" target="_blank">
                 <button class="video-button">
                     ▶
                 </button>
             </a>
         </div>
     </div>
+    <br>
+    <br>
+
+    <div>
+        <h1 style="color: rgb(255, 255, 255); background-color: #d2b48c;;padding: 20px 20px;">Novidades FaceSalon</h1>
+        <p style="text-align: center;color: rgb(255, 255, 255);">Saiba Mais</p>
+        </div>
+        <br>
+    
+        <div class="novidades-container" id="novidades">
+            <div class="cartao">
+                <img src="https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:eco/blog/wordpress/prod/sites/7/2023/01/29092857/shutterstock_1907565856-1.jpg" alt="Unhas para o carnaval">
+                <div class="cartao-content">
+                    <h3>Unhas para o carnaval: 5 inspirações para sua folia</h3>
+                    <p>Confira as melhores inspirações de unhas para o carnaval e transforme o seu look para as festas.</p>
+                </div>
+            </div>
+    
+            <div class="cartao">
+                <img src="https://capricho.abril.com.br/wp-content/uploads/2024/02/penteado-space-buns-cabelo-carnaval.jpg?quality=85&strip=info&w=1000" alt="Penteados para o carnaval">
+                <div class="cartao-content">
+                    <h3>Penteados para o carnaval: confira 3 inspirações deslumbrantes</h3>
+                    <p>Não sabe como vai ser o seu look? Clique e veja inspirações de penteados para o carnaval!</p>
+                </div>
+            </div>
+    
+            <div class="cartao">
+                <img src="https://blog.meninashoes.com.br/wp-content/uploads/2023/10/jade-picon-com-cabelo-bob.jpg" alt="Cortes de cabelo para o verão">
+                <div class="cartao-content">
+                    <h3>Cortes de cabelo para o verão: tendências para você apostar</h3>
+                    <p>Confira as tendências de cortes de cabelo para o verão e aposte no seu favorito!</p>
+                </div>
+            </div>
+    
+
+            <div class="cartao">
+                <img src="https://i.pinimg.com/736x/f1/26/90/f12690e2c006ed741432636bd0d65e3c.jpg" alt="Cabelo cacheado">
+                <div class="cartao-content">
+                    <h3>Cabelo cacheado: dicas e cortes para iluminar seu look</h3>
+                    <p>Tem o cabelo cacheado e quer mudar o visual? Confira as melhores dicas e cortes.</p>
+                </div>
+            </div>
+        </div>
+
+    <div class="nomeunidade">
+        <h2>Unidades</h2>
+    </div>
+
+     <div class="unidade">
+        <img src="https://www.pe.senac.br/wp-content/uploads/2023/01/uip-13.jpg" alt="senac">
+        <h3>Salão Senac</h3>
+        <p>Fundado em 2015, sempre cosmopolita e antenado às tendências mundiais da beleza.</p>
+    </div>
+        <div class="buttons">
+            <a href="#">ENTRE EM CONTATO</a>
+            <a href="#">COMO CHEGAR</a>
+        </div>
+    </div>
+
 
     <div class="header">
-        <h1>Profissionais FaceSalon</h1>
+        <h1 style="color: rgb(255, 255, 255);background-color: #d2b48c; ">Profissionais FaceSalon</h1>
     </div>
     
     <div class="container">
-        <!-- Example card for one of the experts -->
+       
         <div class="card">
-            <img src="anderson.jpg" alt="Anderson Fernandes">
-            <div class="name">Anderson Fernandes</div>
-            <div class="role">Hair Stylist</div>
-            <a href="#" class="profile-link">Ver perfil</a>
-        </div>
-
-        <div class="card">
-            <img src="cadu.jpg" alt="Cadu Lima">
+            <img src="https://www.troisbeaute.com.br/wp-content/uploads/2024/07/mano.png" alt="name">
             <div class="name">Cadu Lima</div>
-            <div class="role">Hair Stylist</div>
+            <div class="role">Cabelereiro</div>
             <a href="#" class="profile-link">Ver perfil</a>
         </div>
 
         <div class="card">
-            <img src="camila.jpg" alt="Camila">
-            <div class="name">Camila</div>
-            <div class="role">Hair Stylist</div>
+            <img src="https://i.pinimg.com/236x/d1/7a/2d/d17a2d9d167800f3137b1325736a05d0.jpg" alt="name">
+            <div class="name">Carla Dias</div>
+            <div class="role">Make</div>
             <a href="#" class="profile-link">Ver perfil</a>
         </div>
-
+        
         <div class="card">
-            <img src="chris.jpg" alt="Chris Pasqualotto">
-            <div class="name">Chris Pasqualotto</div>
-            <div class="role">Hair Stylist</div>
+            <img src="https://i.pinimg.com/236x/9d/09/1a/9d091ab263961e77cf9c2e8f6102424f.jpg" alt="name">
+            <div class="name">Jessica Martins</div>
+            <div class="role">Manicure e pedicure</div>
             <a href="#" class="profile-link">Ver perfil</a>
         </div>
-
+        
         <div class="card">
-            <img src="cleo.jpg" alt="Cléo Medina">
-            <div class="name">Cléo Medina</div>
-            <div class="role">Hair Stylist</div>
+            <img src="https://www.troisbeaute.com.br/wp-content/uploads/2024/07/FELIPE-2.png" alt="name">
+            <div class="name">Luciano Paulo</div>
+            <div class="role">Podologia</div>
             <a href="#" class="profile-link">Ver perfil</a>
         </div>
-
+        
         <div class="card">
-            <img src="daieny.jpg" alt="Daieny Almeida">
-            <div class="name">Daieny Almeida</div>
-            <div class="role">Make-up Artist</div>
+            <img src="https://i.pinimg.com/736x/60/c4/e7/60c4e787c9b0bdbca6f751c25979870c.jpg" alt="name">
+            <div class="name">Ana Gomes</div>
+            <div class="role">Estética</div>
             <a href="#" class="profile-link">Ver perfil</a>
         </div>
-
+        
         <div class="card">
-            <img src="danilo.jpg" alt="Danilo Herbert">
-            <div class="name">Danilo Herbert</div>
-            <div class="role">Hair Stylist</div>
+            <img src="https://img.freepik.com/fotos-premium/corte-de-cabelo-masculino-barbear-masculino-na-barbearia_293990-335.jpg" alt="name">
+            <div class="name">Jonas Silva</div>
+            <div class="role">Barbeiro</div>
             <a href="#" class="profile-link">Ver perfil</a>
         </div>
-    </div>
 
-    <div class="header">
-        <h1>NOVIDADES TROIS</h1>
-        <a href="#">Saiba Mais</a>
-    </div>
-
-    <div class="news-container">
-        <!-- News Card 1 -->
-        <div class="news-card">
-            <img src="unhas-carnaval.jpg" alt="Unhas para o carnaval">
-            <div class="news-content">
-                <div class="news-title">Unhas para o carnaval: 5 inspirações para a sua folia</div>
-                <div class="news-description">Confira as melhores inspirações de unhas para o carnaval e transforme o seu look para as festas. Clique e saiba mais!</div>
-                <div class="news-date">01/24</div>
-            </div>
-        </div>
-
-        <!-- News Card 2 -->
-        <div class="news-card">
-            <img src="penteados-carnaval.jpg" alt="Penteados para o carnaval">
-            <div class="news-content">
-                <div class="news-title">Penteados para o carnaval: confira 3 inspirações deslumbrantes</div>
-                <div class="news-description">Não sabe como vai ser o seu look? Clique e veja inspirações de penteados para o carnaval!</div>
-                <div class="news-date">01/24</div>
-            </div>
-        </div>
-
-        <!-- News Card 3 -->
-        <div class="news-card">
-            <img src="cortes-cabelo-verao.jpg" alt="Cortes de cabelo para o verão">
-            <div class="news-content">
-                <div class="news-title">Cortes de cabelo para o verão: tendências para você apostar</div>
-                <div class="news-description">Está pronta para mudar o visual? Confira as tendências e cortes de cabelo para o verão e aposte no seu favorito!</div>
-                <div class="news-date">12/23</div>
-            </div>
-        </div>
-
-        <!-- News Card 4 -->
-        <div class="news-card">
-            <img src="morena-cacheada.jpg" alt="Cabelo morena iluminada em cacheadas">
-            <div class="news-content">
-                <div class="news-title">Cabelo morena iluminada em cacheadas: dicas e inspirações para arrasar</div>
-                <div class="news-description">Tem o sonho de fazer a técnica de morena iluminada nos seus cachos? Clique e confira tudo que separamos para você!</div>
-                <div class="news-date">12/23</div>
-            </div>
-        </div>
-
-        <!-- News Card 5 -->
-        <div class="news-card">
-            <img src="mechas-loiras.jpg" alt="Cuidados essenciais para mechas loiras">
-            <div class="news-content">
-                <div class="news-title">Cuidados essenciais para manter mechas loiras saudáveis e vibrantes</div>
-                <div class="news-description">Mechas loiras são as mais procuradas em salões de beleza, mas você sabe como cuidar delas da maneira correta? Clique e o confira!</div>
-                <div class="news-date">11/23</div>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+    
