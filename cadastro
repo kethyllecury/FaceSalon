@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro com Reconhecimento Facial</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(228, 223, 223);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            margin-bottom: 20px;
+        }
+        input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background: #8a6d3b;
+            border: none;
+            color: white;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #8a6d3b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Faça seu cadastro na FaceSalon</h2>
+        <form id="registration-form">
+            <input type="text" placeholder="Nome Completo" required>
+            <input type="text" placeholder="Usuario" required>
+            <input type="email" placeholder="Email" required>
+            <input type="password" placeholder="Senha" required>
+            <button type="button" onclick="startFaceRecognition()">Registrar com Face ID</button>
+        </form>
+    </div>
+
+    <script>
+        function startFaceRecognition() {
+            alert('Iniciando reconhecimento facial...');
+            // Aqui você pode adicionar a lógica para iniciar o reconhecimento facial usando uma biblioteca como face-api.js
+        }
+    </script>
+</body>
+</html>
+
