@@ -7,10 +7,21 @@
 </head>
 <body>
     <div class="header">
-        <div class="logo">FACE SALON </div>
-        <div class="tagline">Sua beleza tem a marca Salão Senac</div>
-        <br>
-        <img class="senac" src="https://www.pe.senac.br/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-05-at-09.46.39.jpeg" alt="f">
+        <h2 style="color: #8a6d3b; height: 200px; font-family: Arial, Helvetica, sans-serif; display: flex; align-items: center;">
+            <img src="Documents/salao/logo1.png" alt="Imagem decorativa" style="width: 400px; height: 400px; margin-right: 10px;">
+            <br>
+            <nav class="navbar">
+                <ul class="menu">
+                    <li style="display: inline; margin-right: 15px;font-size: 25px;"><a  style="color: #8a6d3b ;"   href="index.html">Home</a></li>
+                    <li style="display: inline; margin-right: 15px;font-size: 25px;"><a   style="color: #8a6d3b ;"  href="equipamentos.html">Login</a></li>
+                    <li style="display: inline; margin-right: 15px;font-size: 25px;"><a  style="color: #8a6d3b ;"   href="livros.html">Matches</a></li>
+                    <li style="display: inline; margin-right: 15px;font-size: 25px;"><a  style="color: #8a6d3b ;"   href="videos.html">Sobre nós</a></li>
+                    <li style="display: inline; margin-right: 15px;font-size: 25px;"><a  style="color: #8a6d3b ;"  href="stories.html">Feedback Premiado</a></li>
+                </ul>
+            </nav>
+        </h2>
+       <h3 style="color: #8a6d3b ;"    class="tagline">Sua beleza tem a marca Salão Senac</h3>
+        <img class="senac" src="https://www.pe.senac.br/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-05-at-09.46.39.jpeg" alt="Imagem do Senac">
     </div>
     <br>
     <br>
@@ -49,27 +60,27 @@
     <div class="other-services">
         <div class="service">
             <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/FA64AC1.jpg" alt="Alongamento de Fios">
-            <h3>Outros serviços capilares</h3>
+            <h3 style="color: #8a6d3b">Outros serviços capilares</h3>
             <a style="color:gray;"  href="#">Baixe nosso e-book</a>
         </div>
         <div class="service">
             <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/FAF7021.jpg" alt="Menu de Procedimentos">
-            <h3>Menu de Procedimentos</h3>
+            <h3 style="color: #8a6d3b">Menu de Procedimentos</h3>
             <a style="color:gray;"   href="#">Saiba mais</a>
         </div>
         <div class="service">
             <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/Senac-13-10-23-Guilherme-Lost-01.jpg" alt="Faça suas Mechas">
-            <h3>Faça suas Mechas</h3>
+            <h3 style="color: #8a6d3b">Faça suas Mechas</h3>
             <a style="color:gray;"   href="#">Faça um orçamento</a>
         </div>
         <div class="service">
             <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/FACF621.jpg" alt="Trends do Momento">
-            <h3>As trends do momento</h3>
+            <h3 style="color: #8a6d3b">As trends do momento</h3>
             <a style="color:gray;"   href="#">Clique e confira</a>
         </div>
         <div class="service">
             <img src="https://www.pe.senac.br/wp-content/uploads/2023/12/FA789C1.jpg" alt="Teste de Mechas">
-            <h3>Serviços de Estética</h3>
+            <h3 style="color: #8a6d3b">Serviços de Estética</h3>
             <a style="color:gray;"   href="#">Baixe nosso e-book</a>
         </div>
     </div>
@@ -96,10 +107,10 @@
     <br>
 
     <div>
-        <h1 style="color: rgb(255, 255, 255); background-color: #d2b48c;;padding: 20px 20px;">Novidades FaceSalon</h1>
+        <h1 style="color: rgb(255, 255, 255); background-color: #d2b48c;;padding: 5px ;font-size: 25px;">Novidades FaceSalon</h1>
         <p style="text-align: center;color: rgb(255, 255, 255);">Saiba Mais</p>
         </div>
-        <br>
+     
     
         <div class="novidades-container" id="novidades">
             <div class="cartao">
@@ -137,14 +148,15 @@
         </div>
 
     <div class="nomeunidade">
-        <h2>Unidades</h2>
+        <h2 style="font-size: 25px;padding: 5px ">Unidades</h2>
     </div>
+     <br>
 
      <div class="unidade">
-        <img src="https://www.pe.senac.br/wp-content/uploads/2023/01/uip-13.jpg" alt="senac">
-        <iframe  class="iframe"   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1219.0365478904264!2d-34.886056443314516!3d-8.053162044072213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab18eb40c24969%3A0xf4f6c91f34b3ada9!2sSenac%20Recife%20(Imagem%20Pessoal)!5e0!3m2!1sen!2sbr!4v1727665202609!5m2!1sen!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        <h3>Salão Senac</h3>
-        <p>Fundado em 2015, sempre cosmopolita e antenado às tendências mundiais da beleza.</p>
+        <div style="display: flex; align-items: flex-start; margin-top: 20px;">
+            <img src="https://www.pe.senac.br/wp-content/uploads/2023/01/uip-13.jpg" alt="senac" style="width: 600px; height: 450px; margin-right: 20px;">
+            <iframe class="iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1219.0365478904264!2d-34.886056443314516!3d-8.053162044072213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab18eb40c24969%3A0xf4f6c91f34b3ada9!2sSenac%20Recife%20(Imagem%20Pessoal)!5e0!3m2!1sen!2sbr!4v1727665202609!5m2!1sen!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
     </div>
         <div class="buttons">
             <a href="#">ENTRE EM CONTATO</a>
@@ -155,7 +167,7 @@
 
 
     <div class="header">
-        <h1 style="color: rgb(255, 255, 255);background-color: #d2b48c; ">Profissionais FaceSalon</h1>
+        <h1 style="color: rgb(255, 255, 255);background-color: #d2b48c;font-size: 25px;padding: 5px ">Profissionais FaceSalon</h1>
     </div>
     
     <div class="container">
