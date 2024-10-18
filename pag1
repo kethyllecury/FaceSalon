@@ -6,24 +6,20 @@
 
 </head>
 <body>
-    <div class="header">
-        <h2 style="color: #8a6d3b; height: 200px; font-family: Arial, Helvetica, sans-serif; display: flex; align-items: center;">
-            <img src="Documents/salao/logo1.png" alt="Imagem decorativa" style="width: 400px; height: 400px; margin-right: 10px;">
+    <header style="background-color: rgb(255, 255, 255);">
+        <nav>
+            <ul class="menu">
+                <li style="display: inline; margin-right: 15px;font-size: 25px;"><a  style="color: #8a6d3b ;"   href="index.html">Home</a></li>
+                <li style="display: inline; margin-right: 15px;font-size: 25px;"><a   style="color: #8a6d3b ;"  href="equipamentos.html">Login</a></li>
+                <li style="display: inline; margin-right: 15px;font-size: 25px;"><a  style="color: #8a6d3b ;"   href="livros.html">Matches</a></li>
+                <li style="display: inline; margin-right: 15px;font-size: 25px;"><a  style="color: #8a6d3b ;"   href="videos.html">Sobre nós</a></li>
+                <li style="display: inline; margin-right: 15px;font-size: 25px;"><a  style="color: #8a6d3b ;"  href="stories.html">Feedback Premiado</a></li>
+            </ul>
+            <img  src="Documents/salao/image 1.png" alt="Imagem decorativa">
             <br>
-            <nav class="navbar">
-                <ul class="menu">
-                    <li style="display: inline; margin-right: 15px;font-size: 25px;"><a  style="color: #8a6d3b ;"   href="index.html">Home</a></li>
-                    <li style="display: inline; margin-right: 15px;font-size: 25px;"><a   style="color: #8a6d3b ;"  href="equipamentos.html">Login</a></li>
-                    <li style="display: inline; margin-right: 15px;font-size: 25px;"><a  style="color: #8a6d3b ;"   href="livros.html">Matches</a></li>
-                    <li style="display: inline; margin-right: 15px;font-size: 25px;"><a  style="color: #8a6d3b ;"   href="videos.html">Sobre nós</a></li>
-                    <li style="display: inline; margin-right: 15px;font-size: 25px;"><a  style="color: #8a6d3b ;"  href="stories.html">Feedback Premiado</a></li>
-                </ul>
-            </nav>
-        </h2>
-       <h3 style="color: #8a6d3b ;"    class="tagline">Sua beleza tem a marca Salão Senac</h3>
-        <img class="senac" src="https://www.pe.senac.br/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-05-at-09.46.39.jpeg" alt="Imagem do Senac">
-    </div>
-    <br>
+            <img style="width: 1000px ;height: 400px;" src="https://www.pe.senac.br/wp-content/uploads/2023/12/FA0C921.jpg" alt="f">
+        </nav>
+
     <br>
 
     <div class="footer">
@@ -31,8 +27,7 @@
     </div>
     <br>
     <div class="buttons">
-        <a  style="color:gray;" href="https://wa.me/558130193040">Agende via WhatsApp</a>
-        <a style="color: gray;" href="tel:+558130193040">Ligue agora – (81) 3019-3040</a>
+        <a style="color:  #8a6d3b;" href="tel:+558130193040">Ligue agora – (81) 3019-3040</a>
     </div>
 
     <div class="services">
@@ -166,7 +161,7 @@
 
 
 
-    <div class="header">
+    <div class="profissoes">
         <h1 style="color: rgb(255, 255, 255);background-color: #d2b48c;font-size: 25px;padding: 5px ">Profissionais FaceSalon</h1>
     </div>
     
@@ -214,4 +209,5 @@
             <a href="#" class="profile-link">Ver perfil</a>
         </div>
 
+    
     
